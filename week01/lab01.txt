@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:55 key
+-rw-r--r-- 1 sonia.eka StafCS    0 Feb 13 17:05 lab01.txt
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:55 log
+-rw-r--r-- 1 sonia.eka StafCS   34 Feb 13 16:46 README.md
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:57 sandbox
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 17:04 week00
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:52 week01
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:52 week02
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:52 week03
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:52 week04
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:53 week05
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:53 week06
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:54 week07
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:55 week08
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:55 week09
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:55 week10
+drwxr-xr-x 2 sonia.eka StafCS 4096 Feb 13 16:56 xtra
+/home/fasilkom/mahasiswa/s/sonia.eka/os181/week01
